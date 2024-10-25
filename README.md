@@ -1,9 +1,10 @@
 # EduBridge
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.10.
+"EduBridge" is a combination of the words "edu" (education) and "bridge." It represents a platform that brings together various resources in the education sector and provides a connection between students and teachers. In other words, it functions as a bridge in the education world.
 
 ## Development server
 
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.10.
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
 ## Code scaffolding
